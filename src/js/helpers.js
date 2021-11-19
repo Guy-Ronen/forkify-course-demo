@@ -65,3 +65,7 @@ export const sendJSON = async function (url, uploadData) {
   }
 };
 */
+
+const newFeature = () => {
+  console.log('Welcome to our new application!');
+};
